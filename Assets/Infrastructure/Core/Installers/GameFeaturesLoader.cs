@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using Core.EventBus;
-using Core.Service_Locator;
 using Infrastructure.Core.ServiceLocator;
 using UnityEngine;
 

@@ -1,5 +1,6 @@
 using Core.Infrastructure;
 using Infrastructure.Core.UI.ViewExample;
+using Infrastructure.Core.UseCases;
 
 namespace Infrastructure.Core.UI.PresenterExample
 {

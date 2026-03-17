@@ -1,4 +1,4 @@
 {
 	"name": "UseCases",
-	"references":[ "GUID:f51ebe6a0ceec4240a699833d6309b23" ]
+	"references":[ "GUID:f51ebe6a0ceec4240a699833d6309b23", "GUID:37ddadce05cb1344a9cb4757932da7fb", "GUID:8178fc0ea97a0d7429a5a901d96a9ff8" ]
 }

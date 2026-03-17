@@ -1,6 +1,5 @@
 using System;
 using Core.EventBus;
-using Core.Service_Locator;
 using Infrastructure.Core.ServiceLocator;
 using Infrastructure.Core.UseCases;
 

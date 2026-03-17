@@ -1,8 +1,7 @@
 using Core.EventBus;
 using Cysharp.Threading.Tasks;
-using Infrastructure.Core.UseCases;
 
-namespace Infrastructure.Core.UI.PresenterExample
+namespace Infrastructure.Core.UseCases
 {
     public class PingPongUseCase : IUseCase
     {
